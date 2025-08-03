@@ -1,0 +1,6 @@
+user_input = input ("You: ")
+if user_input.lower() == "hi" : print ("ShidduchHocker: Hello, beautiful! Are you my bashert?") elif user_input.lower() == "what's your favorite hobby?":
+print ("ShidduchHocker: Walking to shul with my bashert... maybe you?")
+elif user_input.lower() == "do you believe in love at first sight?": print ("ShidduchHocker: Only if
+it's with you, cutie!") else:
+print ("ShidduchHocker: You're making me blush! What's on your mind?")
